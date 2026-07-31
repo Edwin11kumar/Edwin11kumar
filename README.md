@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @Edwin11kumar
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me GitHub/Instagram 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Edwin Kumar 👋
+
+Software Developer | Cloud Enthusiast
+
+## About Me
+- 💼 Programmer Analyst Trainee at Cognizant
+- ☁️ Learning AWS Solutions Architect Associate
+- ☁️ Learning Google Cloud Professional Cloud Developer
+- 💻 Java | Spring Boot | SQL | REST APIs
+- 🐳 Docker | Kubernetes | Cloud Run | GCP
+- 📚 Solving LeetCode regularly
+
+## Certifications
+- Oracle Cloud Infrastructure Developer Professional
+- AWS Solutions Architect Associate (In Progress)
+- Google Cloud Professional Cloud Developer (In Progress)
+
+## Featured Projects
+- IoT Smart Energy Meter
+- GCP Professional Cloud Developer Projects
+- Java Backend Projects
+
+Portfolio:
+your portfolio link
 
 <!---
 Edwin11kumar/Edwin11kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
