@@ -1,14 +1,14 @@
-# Hi, I'm Edwin Kumar 👋
+# Hi, I'm Edwin Kumar
 
 Software Developer | Cloud Enthusiast
 
 ## About Me
-- 💼 Programmer Analyst Trainee at Cognizant
-- ☁️ Learning AWS Solutions Architect Associate
-- ☁️ Learning Google Cloud Professional Cloud Developer
-- 💻 Java | Spring Boot | SQL | REST APIs
-- 🐳 Docker | Kubernetes | Cloud Run | GCP
-- 📚 Solving LeetCode regularly
+-  Programmer Analyst Trainee at Cognizant
+-  Learning AWS Solutions Architect Associate
+-  Learning Google Cloud Professional Cloud Developer
+-  Java | Spring Boot | SQL | REST APIs
+-  Docker | Kubernetes | Cloud Run | GCP
+-  Solving LeetCode regularly
 
 ## Certifications
 - Oracle Cloud Infrastructure Developer Professional
