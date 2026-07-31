@@ -21,7 +21,7 @@ Software Developer | Cloud Enthusiast
 - Java Backend Projects
 
 Portfolio:
-your portfolio link
+[your portfolio link](https://edwinkumar-portfolio.netlify.app/)
 
 <!---
 Edwin11kumar/Edwin11kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
