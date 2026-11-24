@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Edwinkumar&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Cloud%20Enthusiast&descSize=18&descAlignY=57" alt="Edwinkumar — Software Developer and Cloud Enthusiast" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=fira+code&weight=600&size=22&duration=3000&pause=1000&color=38bdf8&center=true&vcenter=true&width=650&lines=Hi%2c+I%27m+Edwinkumar+%f0%9f%91%8b;java+%26+spring+boot+developer;exploring+AWS+%26+google+cloud;learning%2c+building+%26+growing+every+day" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com/?font=fira+code&weight=600&size=22&duration=3000&pause=1000&color=38bdf8&center=true&vcenter=true&width=650&lines=Hi%2c+I%27m+Edwinkumar+%f0%9f%91%8b;java+%26+spring+boot+developer;Exploring+AWS+%26+Google+Cloud+Platform;Learning%2c+Building+%26+Growing+Every+Day" alt="Animated introduction" />
 
 <br/>
 
